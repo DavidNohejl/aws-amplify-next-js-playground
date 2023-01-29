@@ -17,6 +17,9 @@
           "appId": "dpwrvkz73864r",
           "type": "cicd"
         }
+      },
+      "auth": {
+        "awsamplifynextjsplay4bc6e731": {}
       }
     }
   }
